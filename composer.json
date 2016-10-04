@@ -1,0 +1,29 @@
+{
+    "name": "sozarch/datatables",
+    "type": "component",
+    "description": "DataTables is a plug-in for the jQuery Javascript library. It is a highly flexible tool, based upon the foundations of progressive enhancement, which will add advanced interaction controls to any HTML table.",
+    "homepage": "http://www.datatables.net/",
+    "license": [
+        "MIT"
+    ],
+    "support": {
+        "forum": "https://datatables.net/forums",
+        "source": "https://github.com/DataTables/DataTablesSrc/"
+    },
+    "extra": {
+        "component": {
+            "files": [
+                "js/jquery.dataTables.min.js",
+                "js/dataTables.bootstrap4.min.js",
+                "css/jquery.dataTables.min.css",
+                "css/dataTables.bootstrap4.min.css",
+                "css/dataTables.bootstrap.min.css",
+                "images/sort_asc.png",
+                "images/sort_asc_disabled.png",
+                "images/sort_both.png",
+                "images/sort_desc.png",
+                "images/sort_desc_disabled.png"
+            ]
+        }
+    }
+}
